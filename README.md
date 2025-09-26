@@ -6,7 +6,7 @@ This collection demonstrates a practical understanding of fundamental AI concept
 
 ---
 
-## 🏛️ Course Context
+## Course Context
 
 | Detail | Value |
 | :--- | :--- |
@@ -18,19 +18,19 @@ This collection demonstrates a practical understanding of fundamental AI concept
 
 ---
 
-## 🚀 Projects Overview & Algorithms Applied
+## Projects Overview & Algorithms Applied
 
 | Project Title | Core AI Concept | Key Algorithms & Techniques |
 | :--- | :--- | :--- |
-| **1. Maze Pathfinding Visualizer** | **Uninformed & Informed Search** | BFS, DFS, IDS, **A\*** (A-Star), Greedy Best-First Search, Manhattan Heuristic. |
-| **2. Connect Four AI Player** | **Adversarial Search** | **Minimax**, **Alpha-Beta Pruning**, Expectimax, Heuristic Evaluation. |
-| **3. Weighted MAX-SAT Solver** | **Constraint Satisfaction (CSP) for Logic** | Backtracking Search for the Weighted MAX-SAT problem, modeled as a CSP. Enhanced with heuristics: **MRV** (Minimum Remaining Value), **LCV** (Least Constraining Value), and **MCV** (Most Constraining Variable). |
-| **4. Adult Income Classification** | **Supervised Machine Learning** | Full ML Pipeline (EDA, Preprocessing, Feature Engineering), XGBoost, Scikit-learn models, ROC AUC/F1 metrics. |
-| **5. Traveling Salesman GA** | **Meta-Heuristic Optimization** | **Genetic Algorithm (GA)**, Tournament Selection, Cycle Crossover (CX), Inversion Mutation, Fitness Function Design. |
+| **Maze Pathfinding Visualizer** | **Uninformed & Informed Search** | BFS, DFS, IDS, **A\*** (A-Star), Greedy Best-First Search, Manhattan Heuristic. |
+| **Connect Four AI Player** | **Adversarial Search** | **Minimax**, **Alpha-Beta Pruning**, Expectimax, Heuristic Evaluation. |
+| **Weighted MAX-SAT Solver** | **Constraint Satisfaction (CSP) for Logic** | Backtracking Search for the Weighted MAX-SAT problem, modeled as a CSP. Enhanced with heuristics: **MRV** (Minimum Remaining Value), **LCV** (Least Constraining Value), and **MCV** (Most Constraining Variable). |
+| **Adult Income Classification** | **Supervised Machine Learning** | Full ML Pipeline (EDA, Preprocessing, Feature Engineering), XGBoost, Scikit-learn models, ROC AUC/F1 metrics. |
+| **Traveling Salesman GA** | **Meta-Heuristic Optimization** | **Genetic Algorithm (GA)**, Tournament Selection, Cycle Crossover (CX), Inversion Mutation, Fitness Function Design. |
 
 ---
 
-## 🛠️ Technology Stack
+## Stack
 
 * **Python 3.x**
 * **Core Libraries:** `numpy`, `pandas`, `scikit-learn`
@@ -39,6 +39,12 @@ This collection demonstrates a practical understanding of fundamental AI concept
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Each project is contained within its own dedicated directory, ensuring modularity and clarity.
+
+---
+
+## License
+
+MIT License — feel free to use or adapt the code.
