@@ -1,4 +1,4 @@
-# AUT-AI-Core-Projects
+# AI Projects
 
 This repository archives the projects that I have done for the **Artificial Intelligence** course at the **Faculty of Mathematics and Computer Science, Amirkabir University of Technology (AUT)**.
 
